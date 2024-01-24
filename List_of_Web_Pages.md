@@ -35,3 +35,43 @@
 | 33    | [https://archive.is/jZUqI](https://archive.is/jZUqI) |
 | 34    | [https://archive.is/www.audi.com](https://archive.is/www.audi.com) |
 | 35    | [https://archive.is/Pj6gm](https://archive.is/Pj6gm) |
+
+
+| Index | Trove web pages |
+|-------|------------------|
+| 1 | [https://trove.nla.gov.au/](https://trove.nla.gov.au/) |
+| 2 | [https://trove.nla.gov.au/landing/explore](https://trove.nla.gov.au/landing/explore) |
+| 3 | [https://trove.nla.gov.au/landing/categories](https://trove.nla.gov.au/landing/categories) |
+| 4 | [https://trove.nla.gov.au/landing/community](https://trove.nla.gov.au/landing/community) |
+| 5 | [https://trove.nla.gov.au/landing/research](https://trove.nla.gov.au/landing/research) |
+| 6 | [https://trove.nla.gov.au/landing/first-australians](https://trove.nla.gov.au/landing/first-australians) |
+| 7 | [https://trove.nla.gov.au/search?keyword=sports](https://trove.nla.gov.au/search?keyword=sports) |
+| 8 | [https://trove.nla.gov.au/blog/2022/07/28/family-history-beginners](https://trove.nla.gov.au/blog/2022/07/28/family-history-beginners) |
+| 9 | [https://trove.nla.gov.au/help/become-voluntrove/text-correction](https://trove.nla.gov.au/help/become-voluntrove/text-correction) |
+| 10 | [https://trove.nla.gov.au/blog/2020/05/19/hot-press](https://trove.nla.gov.au/blog/2020/05/19/hot-press) |
+| 11 | [https://trove.nla.gov.au/blog/2023/07/05/steak-and-no-cigarettes](https://trove.nla.gov.au/blog/2023/07/05/steak-and-no-cigarettes) |
+| 12 | [https://login.nla.gov.au/auth/realms/troveservices/protocol/openid-connect/registrations?client_id=trove&response_type=code&redirect_uri=https%3A%2F%2Ftrove.nla.gov.au%2F](https://login.nla.gov.au/auth/realms/troveservices/protocol/openid-connect/registrations?client_id=trove&response_type=code&redirect_uri=https%3A%2F%2Ftrove.nla.gov.au%2F) |
+| 13 | [https://login.nla.gov.au/auth/realms/troveservices/protocol/openid-connect/auth;jsessionid=node03e2mepjm0uf6e6oyljzvh2mr4603589.node0?client_id=trove&response_type=code&login=true&scope=openid&redirect_uri=https://trove.nla.gov.au/newspaper/authcallback](https://login.nla.gov.au/auth/realms/troveservices/protocol/openid-connect/auth;jsessionid=node03e2mepjm0uf6e6oyljzvh2mr4603589.node0?client_id=trove&response_type=code&login=true&scope=openid&redirect_uri=https://trove.nla.gov.au/newspaper/authcallback) |
+| 14 | [https://trove.nla.gov.au/partners](https://trove.nla.gov.au/partners) |
+| 15 | [https://trove.nla.gov.au/partners/partner-services/digitise](https://trove.nla.gov.au/partners/partner-services/digitise) |
+| 16 | [https://trove.nla.gov.au/partners/partner-services/contribute](https://trove.nla.gov.au/partners/partner-services/contribute) |
+| 17 | [https://trove.nla.gov.au/partners/partner-services/manage](https://trove.nla.gov.au/partners/partner-services/manage) |
+| 18 | [https://trove.nla.gov.au/partners/partner-services/access](https://trove.nla.gov.au/partners/partner-services/access) |
+| 19 | [https://trove.nla.gov.au/partners/partner-services/analyse](https://trove.nla.gov.au/partners/partner-services/analyse) |
+| 20 | [https://trove.nla.gov.au/partners/partner-services/connect](https://trove.nla.gov.au/partners/partner-services/connect) |
+| 21 | [https://trove.nla.gov.au/about](https://trove.nla.gov.au/about) |
+| 22 | [https://trove.nla.gov.au/help](https://trove.nla.gov.au/help) |
+| 23 | [https://trove.nla.gov.au/news](https://trove.nla.gov.au/news) |
+| 24 | [https://trove.nla.gov.au/blog/2020/01/29/community-voluntroves](https://trove.nla.gov.au/blog/2020/01/29/community-voluntroves) |
+| 25 | [https://trove.nla.gov.au/help/searching](https://trove.nla.gov.au/help/searching) |
+| 26 | [https://trove.nla.gov.au/about/create-something/using-api](https://trove.nla.gov.au/about/create-something/using-api) |
+| 27 | [https://trove.nla.gov.au/about/create-something/bulk-download](https://trove.nla.gov.au/about/create-something/bulk-download) |
+| 28 | [https://trove.nla.gov.au/about/create-something/case-studies](https://trove.nla.gov.au/about/create-something/case-studies) |
+| 29 | [https://trove.nla.gov.au/about/join-trove-community/researchers](https://trove.nla.gov.au/about/join-trove-community/researchers) |
+| 30 | [https://trove.nla.gov.au/about/join-trove-community/book-sellers](https://trove.nla.gov.au/about/join-trove-community/book-sellers) |
+| 31 | [https://trove.nla.gov.au/about/join-trove-community/merchandise](https://trove.nla.gov.au/about/join-trove-community/merchandise) |
+| 32 | [https://trove.nla.gov.au/list/53205](https://trove.nla.gov.au/list/53205) |
+| 33 | [https://trove.nla.gov.au/newspaper/article/70072143](https://trove.nla.gov.au/newspaper/article/70072143) |
+
+
+
