@@ -74,4 +74,37 @@
 | 33 | [https://trove.nla.gov.au/newspaper/article/70072143](https://trove.nla.gov.au/newspaper/article/70072143) |
 
 
+| Index | Pandora web pages |
+|-------|---------------------|
+| 1 | [http://pandora.nla.gov.au/](http://pandora.nla.gov.au/) |
+| 2 | [http://pandora.nla.gov.au/about.html](http://pandora.nla.gov.au/about.html) |
+| 3 | [http://pandora.nla.gov.au/overview.html](http://pandora.nla.gov.au/overview.html) |
+| 4 | [http://pandora.nla.gov.au/pandoranews.html](http://pandora.nla.gov.au/pandoranews.html) |
+| 5 | [http://pandora.nla.gov.au/partners.html](http://pandora.nla.gov.au/partners.html) |
+| 6 | [http://pandora.nla.gov.au/registration_form.html](http://pandora.nla.gov.au/registration_form.html) |
+| 7 | [http://pandora.nla.gov.au/statistics.html](http://pandora.nla.gov.au/statistics.html) |
+| 8 | [http://pandora.nla.gov.au/contact.html](http://pandora.nla.gov.au/contact.html) |
+| 9 | [http://pandora.nla.gov.au/disclaimer.html](http://pandora.nla.gov.au/disclaimer.html) |
+| 10 | [https://www.nla.gov.au/](https://www.nla.gov.au/) |
+| 11 | [http://pandora.nla.gov.au/subject/2](http://pandora.nla.gov.au/subject/2) |
+| 12 | [http://pandora.nla.gov.au/subject/41](http://pandora.nla.gov.au/subject/41) |
+| 13 | [http://pandora.nla.gov.au/subject/42](http://pandora.nla.gov.au/subject/42) |
+| 14 | [http://pandora.nla.gov.au/col/13462](http://pandora.nla.gov.au/col/13462) |
+| 15 | [http://pandora.nla.gov.au/subject/3](http://pandora.nla.gov.au/subject/3) |
+| 16 | [http://pandora.nla.gov.au/subject/53](http://pandora.nla.gov.au/subject/53) |
+| 17 | [http://pandora.nla.gov.au/subject/5](http://pandora.nla.gov.au/subject/5) |
+| 18 | [http://pandora.nla.gov.au/subject/7](http://pandora.nla.gov.au/subject/7) |
+| 19 | [http://pandora.nla.gov.au/subject/15](http://pandora.nla.gov.au/subject/15) |
+| 20 | [http://pandora.nla.gov.au/subject/10](http://pandora.nla.gov.au/subject/10) |
+| 21 | [http://pandora.nla.gov.au/subject/11](http://pandora.nla.gov.au/subject/11) |
+| 22 | [http://pandora.nla.gov.au/subject/83](http://pandora.nla.gov.au/subject/83) |
+| 23 | [http://pandora.nla.gov.au/subject/12](http://pandora.nla.gov.au/subject/12) |
+| 24 | [http://pandora.nla.gov.au/subject/13](http://pandora.nla.gov.au/subject/13) |
+| 25 | [http://pandora.nla.gov.au/subject/18](http://pandora.nla.gov.au/subject/18) |
+| 26 | [http://pandora.nla.gov.au/subject/23](http://pandora.nla.gov.au/subject/23) |
+| 27 | [http://pandora.nla.gov.au/subject/21](http://pandora.nla.gov.au/subject/21) |
+| 28 | [http://pandora.nla.gov.au/subject/22](http://pandora.nla.gov.au/subject/22) |
+| 29 | [http://pandora.nla.gov.au/subject/130](http://pandora.nla.gov.au/subject/130) |
+| 30 | [http://pandora.nla.gov.au/subject/25](http://pandora.nla.gov.au/subject/25) |
+| 31 | [http://pandora.nla.gov.au/subject/140](http://pandora.nla.gov.au/subject/140) |
 
